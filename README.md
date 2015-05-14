@@ -1,6 +1,6 @@
 ## Setup
 
-This based off of the tutorial from [miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+This based off of the tutorial from the website [miguelgrinberg.com](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
 After you clone the repository change into the directory and create a virtual env
